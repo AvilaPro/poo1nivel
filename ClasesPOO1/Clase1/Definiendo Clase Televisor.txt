@@ -1,0 +1,20 @@
+Atributos y Metodos de la Clase Televisor
+
+Atributos			Metodos
+-Marca (alfanumerico)		Encender
+-Modelo (alfanumerico)		Cambiar canal
+-Color (alfanumerico)		Subir volumen
+-Tamaño (numerico)		Cambiar brillo
+-Resolucion (alfanumerico)	Programar
+-Smart Tv (logico)		Cambiar la entrada
+-Encendido (logico)
+
+Ejemplo de instanciar un objeto
+	Objeto 1	Obejto 2
+
+Marca: Samsung		Lg
+Color: Negro		Blanco
+Modelo: S2018		LG2019
+Pulgadas: 50"		70"
+Resolucion: Full HD	HD
+Encendido: Si		No

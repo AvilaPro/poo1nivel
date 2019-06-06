@@ -1,0 +1,14 @@
+Analizar el contexto de un carro y definir la clase identificando los OBJETOS que lo componen.
+
+Leyenda: Alfa Numerico (AN), Numerico (N), Logico (L), Objeto (O)
+Carro:
+Atributo: color(AN), marca(AN), modelo(AN), modelo motor(AN), numero de asientos(N), No de puertas(N), No de ruedas(N), Aire acondicionado(L), 
+encendido(L), Maletera(AN), capacidad de carga(N), radio(O), volante(O), puerta(O), amortiguador(O), frenos(O), Gato(O)
+
+Persona:
+Atributo: 
+Nombre(AN), edad(N), Tamaño(N), piel(O), corazon(O), vida(L), cabello(O), dientes(O), uñas(O), manos(O), pies(O), sexo(L)
+coeficiente intelectual (N), piernas(O), brazo(O), riñon(O), vejiga(O), estomago(O), pulmon(O), Ojos(O), orejas(O), nariz(O)
+Cabeza(O), boca(O), cuello(O), axila(O), organo sexual(O), rodilla(O), apendice(O), vesicula(O), bazo(O), intestinos(O)
+torso(O), costillas(O), nalgas(O), pezon(O), columna(O), oreja(O).
+

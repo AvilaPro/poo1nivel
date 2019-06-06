@@ -1,0 +1,21 @@
+Electrodomesticos que enfrian: agrupar los objetos en clases y sub clases.
+
+Super clase: Electrodomesticos.
+Atrib: 
+
+Sub clase: Enfriador
+Atrib: Nombre, Temperatura, Marca, Modelo
+Metodo: Enfriar, congelar
+
+(Hay nevera, freezer, filtros de agua, aire acondicionado.)
+
+Sub sub clase:
+
+a) Nevera           b) Aire acondicionado	c)Freezer
+Objetos			Ambiente		Puertas		
+Puertas			BTU
+			Ubicacion
+
+
+
+

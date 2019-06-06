@@ -1,0 +1,55 @@
+Objetos tangibles de: Un banco
+Objeto
+	Atributo
+					Metodo
+-los cajeros
+	Edad *				Despachar		
+	Años de experiencia *		Atender
+	Sexo
+	Numero de taquilla
+	Posicion de trabajo *
+-el dinero efectivo
+	Denominacion *
+	Material de fabricacion
+	Nivel de deterioro
+-las barandas
+	Altura 
+	Extension *
+	Color
+-las sillas
+	Material
+	Color
+	Posicion *
+-los clientes
+	Edad *				Retirar
+	Tipo de cliente *		Depositar
+	Transaccion a relaizar *
+-las computadores (hardware)
+	Marca *				Monitorear
+	Sistema operativo *
+	Software de contabilidad *
+	Memoria ram *
+	Procesador *
+-la boveda
+	Tamaño *
+	Color
+	Ubicacion *
+	Sistema de seguridad *
+-la puerta
+	Material			Abrir
+	Color
+	Sistema de apertura *
+	Altura *
+	Ancho *
+
+
+Objetos intangibles de: Un banco
+-Cuenta bancaria
+	Tipo de cuenta *
+-Credito bancario
+	Tipo de credito *
+-Dinero (no efectivo)
+	Cantidad en cuenta*
+-Horario
+	Hora *
+

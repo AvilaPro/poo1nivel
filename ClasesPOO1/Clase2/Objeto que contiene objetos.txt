@@ -1,0 +1,38 @@
+Analizar el contexto de Edificio y luego con (campeonato de futbol). Describirlo como objeto que contiene una coleccion de otros 
+objetos e irrecorriendo internamente cada objeto para evaluarlo como un objeto contenedor de una coleccion de otros objetos.
+
+Leyenda: Coloeccion (C), Objeto (O),
+Clase Edificio
+
+Empleado(C)
+Baño(C)
+	Poceta(C)
+	Lavamano(C)
+Piso(C)
+	Apartamento(C)	
+		Cuartos(C)
+		Salas(C)
+		Cocinas(C)
+		Baño(C)
+		Televisores(C)
+		Electrodomesticos(C)
+		Muebles(C)
+		Personas(C)
+	Oficina(C)
+		Muebles(C)
+		Articulos de oficina(C)
+		Personas(C)
+		Baño(C)
+	Baño(C)
+Personas(C)
+	Residentes(C)
+	Empleado(C)
+Puerta(C)
+Ventanas(C)
+
+
+
+
+
+
+Campeonato de futbol.

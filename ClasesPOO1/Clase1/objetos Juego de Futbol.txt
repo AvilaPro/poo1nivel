@@ -1,0 +1,53 @@
+Objetos tangibles de: juego de futbol
+Objeto
+	Atributo
+				Metodo
+-el balon.
+	Marca *			Rodar	
+	Tamaño *
+	Color
+	Ubicacion *
+-los jugadores.
+	Edad *			Correr
+	Estatura *		Defender
+	Numero del jugador	Chutar
+	Tiempo de Juego *	Atrapar
+	Alineacion *
+-la cancha o estadio.
+	Tipo de grama *		Iluminar
+	Color de grama
+	Humedad *
+	Techado *
+	Altura de la grama *
+-la porteria.
+	Color
+	Tipo de malla
+	Marca
+-el arbitro.
+	Nacionalidad *		Correr
+	Edad			Juzgar
+	Velocidad *		Pitar
+-la banca de jugadores.
+	Material de fabricacion *
+	Climatizado *
+	Color
+-el entrenador o director tecnico.
+	Experiencia *		Gritar
+	Posicion corporal *	Animar
+	Actitud *		Mover
+-la bandera de corner.
+	Color
+	Tamaño
+
+
+Objetos intangibles de: Juego de futbol
+-el tiempo.
+	Hora *
+-la estrategia.
+	Tipo de alineacion *	Alinear
+-el fanatismo.
+	Algarabia *		Gritar
+	Derrota *		Cantar
+	Gritos de jubilo *	Silbar
+	Pasividad *
+

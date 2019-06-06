@@ -1,0 +1,16 @@
+Analice el contexto organizacional de un Banco (no limitándose a una sede), abarcando todo lo que necesita para funcionar, 
+para luego realizar las siguientes actividades:
+
+
+1.- Describa los objetos (tangibles e intangibles) que están involucrados en este contexto (sea lo más detallista posible)
+
+2.- Defina la clase Banco con la mayor cantidad de atributos simples posibles (atributos de tipos entero, real, alfanumérico, 
+lógico). Indique al lado de cada atributo el tipo de dato
+
+3.- Defina al menos 3 atributos de la clase Banco que sean objetos de otra clase (defina previamente las clases a la que pertenecen 
+estos atributos). Defina al lado del nombre del atributo el nombre de la clase a la que pertenece
+
+4.- Defina al menos 1 atributo que sea una colección de objetos de otra clase (aparte de los atributos descritos en el 
+objetivo anterior)
+
+5.- Generalice por lo menos a 2 clases en una super clase, indicando claramente de cual clase hereda cada sub clase
